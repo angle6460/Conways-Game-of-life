@@ -21,9 +21,3 @@ The game operates on a grid of cells, where each cell can be either alive or dea
 2. **Simulation Controls:**
     - The simulation will run at the speed you choose.
     - The current generation number is displayed on the screen.
-
-## Key Features
-
-- **Interactive Grid:** You can manually select which cells to toggle between alive and dead states before starting the simulation.
-- **Customizable:** You can choose the cell size, grid dimensions, and simulation speed.
-- **Real-time Display:** The grid updates in real-time as the simulation progresses, with the current generation displayed on the screen.
